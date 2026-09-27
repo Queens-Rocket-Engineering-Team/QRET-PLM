@@ -19,6 +19,14 @@
       "allow_custom_part_numbers": false
     },
     {
+      "name": "Motor",
+      "key": "M",
+      "owner": "Ari Klein",
+      "description": "Motor project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
+    },
+    {
       "name": "Oxidizer Systems",
       "key": "OX",
       "owner": "Gabe Catala & Avery Pereira",
