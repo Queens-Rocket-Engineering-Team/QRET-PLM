@@ -11,7 +11,15 @@
   "updated_at": "2026-09-27",
   "based_on": null,
   "approvers": [],
-  "bom": [],
+  "bom": [
+    {
+      "child_object_id": "OX-2^A",
+      "child_part_number": "OX-2",
+      "child_revision": "A",
+      "quantity": 1,
+      "unit": "each"
+    }
+  ],
   "attachments": [],
   "change_summary": "",
   "activity_history": [

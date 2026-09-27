@@ -1,0 +1,37 @@
+{
+  "schema": "peak.revision.v1",
+  "object_id": "OX-2^A",
+  "part_number": "OX-2",
+  "revision": "A",
+  "release_status": "draft",
+  "owner": "Ari Klein",
+  "created_by": "Ari Klein",
+  "created_at": "2026-09-27",
+  "updated_by": "Ari Klein",
+  "updated_at": "2026-09-27",
+  "based_on": null,
+  "approvers": [],
+  "bom": [],
+  "attachments": [],
+  "change_summary": "",
+  "activity_history": [
+    {
+      "id": "OX-2^A:create:20260927T000000000Z:0cy5sy",
+      "action": "create",
+      "actor": "Ari Klein",
+      "performed_at": "2026-09-27T00:00:00.000Z",
+      "revision": "A",
+      "detail": "Created OX-2^A"
+    },
+    {
+      "id": "OX-2^A:updated_properties:20260927T190438536Z:dqykrn",
+      "action": "updated_properties",
+      "actor": "Ari Klein",
+      "performed_at": "2026-09-27T19:04:38.536Z",
+      "revision": "A",
+      "detail": "Updated properties for OX-2^A"
+    }
+  ],
+  "approver": "",
+  "workflow": null
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "peak.part.v2",
+  "part_number": "OX-2",
+  "name": "Ox Tank Upper Bulkhead",
+  "description": "Test",
+  "project": "Oxidizer Systems",
+  "traceability": "SERIAL",
+  "maturity": "development",
+  "onshape": [],
+  "work_instructions": [],
+  "file_links": [],
+  "tags": [],
+  "alternates": [],
+  "revisions": [
+    "OX-2^A.json"
+  ],
+  "workflow": null
+}
