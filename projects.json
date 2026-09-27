@@ -4,8 +4,8 @@
   "projects": [
     {
       "name": "Internal Structures",
-      "key": "IS",
-      "owner": "Ari Klein",
+      "key": "INT",
+      "owner": "Alex Jones, Nolan Patchett",
       "description": "Internal Structures project records",
       "drive_url": "",
       "allow_custom_part_numbers": false
