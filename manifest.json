@@ -2,5 +2,7 @@
   "schema": "peak.parts.manifest.v2",
   "updated_at": "2026-09-27",
   "projects": "projects.json",
-  "parts": []
+  "parts": [
+    "parts/OX-1/OX-1.json"
+  ]
 }
