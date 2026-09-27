@@ -20,8 +20,8 @@
     },
     {
       "name": "Motor",
-      "key": "M",
-      "owner": "Ari Klein",
+      "key": "MOT",
+      "owner": "Kostas Powell",
       "description": "Motor project records",
       "drive_url": "",
       "allow_custom_part_numbers": false
