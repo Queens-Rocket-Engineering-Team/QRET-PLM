@@ -51,6 +51,14 @@
       "allow_custom_part_numbers": false
     },
     {
+      "name": "Payload",
+      "key": "P",
+      "owner": "Ari Klein",
+      "description": "Payload project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
+    },
+    {
       "name": "Recovery",
       "key": "REC",
       "owner": "Caleb Maaskant, Artun Isci",
