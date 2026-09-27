@@ -11,6 +11,14 @@
       "allow_custom_part_numbers": false
     },
     {
+      "name": "Avionics",
+      "key": "A",
+      "owner": "Ari Klein",
+      "description": "Avionics project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
+    },
+    {
       "name": "Ground Support Equipment",
       "key": "GSE",
       "owner": "Alex Jones, Nolan Patchett",
