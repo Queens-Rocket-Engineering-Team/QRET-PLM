@@ -17,6 +17,14 @@
       "description": "Oxidizer Systems project records",
       "drive_url": "",
       "allow_custom_part_numbers": false
+    },
+    {
+      "name": "Recovery",
+      "key": "R",
+      "owner": "Ari Klein",
+      "description": "Recovery project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
     }
   ]
 }
