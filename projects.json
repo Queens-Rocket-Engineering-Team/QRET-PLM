@@ -52,8 +52,8 @@
     },
     {
       "name": "Payload",
-      "key": "P",
-      "owner": "Ari Klein",
+      "key": "PAY",
+      "owner": "Areeba Saleem",
       "description": "Payload project records",
       "drive_url": "",
       "allow_custom_part_numbers": false
