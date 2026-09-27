@@ -36,7 +36,7 @@
     },
     {
       "name": "Launch Control",
-      "key": "LC",
+      "key": "CTL",
       "owner": "Ari Klein",
       "description": "Launch Control project records",
       "drive_url": "",
