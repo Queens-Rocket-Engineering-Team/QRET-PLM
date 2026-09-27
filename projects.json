@@ -1,5 +1,14 @@
 {
   "schema": "peak.projects.v1",
   "updated_at": "2026-09-27",
-  "projects": []
+  "projects": [
+    {
+      "name": "Oxidizer Systems",
+      "key": "OS",
+      "owner": "Ari Klein",
+      "description": "Oxidizer Systems project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
+    }
+  ]
 }
