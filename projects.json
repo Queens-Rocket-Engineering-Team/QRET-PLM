@@ -35,6 +35,14 @@
       "allow_custom_part_numbers": false
     },
     {
+      "name": "Launch Control",
+      "key": "LC",
+      "owner": "Ari Klein",
+      "description": "Launch Control project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
+    },
+    {
       "name": "Motor",
       "key": "MOT",
       "owner": "Kostas Powell",
