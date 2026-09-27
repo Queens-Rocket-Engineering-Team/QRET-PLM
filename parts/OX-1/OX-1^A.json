@@ -4,10 +4,10 @@
   "part_number": "OX-1",
   "revision": "A",
   "release_status": "draft",
-  "owner": "Ari Klein",
+  "owner": "Daniel Morawetz",
   "created_by": "Ari Klein",
   "created_at": "2026-09-27",
-  "updated_by": "Ari Klein",
+  "updated_by": "Daniel Morawetz",
   "updated_at": "2026-09-27",
   "based_on": null,
   "approvers": [],
@@ -28,6 +28,30 @@
       "action": "updated_properties",
       "actor": "Ari Klein",
       "performed_at": "2026-09-27T18:08:12.423Z",
+      "revision": "A",
+      "detail": "Updated properties for OX-1^A"
+    },
+    {
+      "id": "OX-1^A:updated_properties:20260927T184512918Z:56swl8",
+      "action": "updated_properties",
+      "actor": "Daniel Morawetz",
+      "performed_at": "2026-09-27T18:45:12.918Z",
+      "revision": "A",
+      "detail": "Updated properties for OX-1^A"
+    },
+    {
+      "id": "OX-1^A:updated_properties:20260927T184824625Z:qayd5a",
+      "action": "updated_properties",
+      "actor": "Daniel Morawetz",
+      "performed_at": "2026-09-27T18:48:24.625Z",
+      "revision": "A",
+      "detail": "Updated properties for OX-1^A"
+    },
+    {
+      "id": "OX-1^A:updated_properties:20260927T185028218Z:w2180x",
+      "action": "updated_properties",
+      "actor": "Daniel Morawetz",
+      "performed_at": "2026-09-27T18:50:28.218Z",
       "revision": "A",
       "detail": "Updated properties for OX-1^A"
     }
