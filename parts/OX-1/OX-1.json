@@ -14,5 +14,6 @@
   "revisions": [
     "OX-1^A.json"
   ],
-  "workflow": null
+  "workflow": null,
+  "mass": "123g"
 }
