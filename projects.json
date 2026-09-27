@@ -3,6 +3,14 @@
   "updated_at": "2026-09-27",
   "projects": [
     {
+      "name": "Internal Structures",
+      "key": "IS",
+      "owner": "Ari Klein",
+      "description": "Internal Structures project records",
+      "drive_url": "",
+      "allow_custom_part_numbers": false
+    },
+    {
       "name": "Oxidizer Systems",
       "key": "OX",
       "owner": "Gabe Catala & Avery Pereira",
