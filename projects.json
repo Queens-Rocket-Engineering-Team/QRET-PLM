@@ -12,8 +12,8 @@
     },
     {
       "name": "Avionics",
-      "key": "A",
-      "owner": "Ari Klein",
+      "key": "AV",
+      "owner": "Andrew Gault, Ari Klein, Jeevan Sanchez",
       "description": "Avionics project records",
       "drive_url": "",
       "allow_custom_part_numbers": false
