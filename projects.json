@@ -4,8 +4,8 @@
   "projects": [
     {
       "name": "Aerostructures",
-      "key": "A",
-      "owner": "Ari Klein",
+      "key": "AER",
+      "owner": "Caleb Maaskant, Artun Isci",
       "description": "Aerostructures project records",
       "drive_url": "",
       "allow_custom_part_numbers": false
